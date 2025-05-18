@@ -3,6 +3,5 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=figma,git,github,idea,java,maven,mongodb" />
-    <img src="https://skillicons.dev/icons?i=obsidian,ps,postgres,postman,pycharm,py,spring,windows" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,git,github,idea,java,mongodb,spring" />
 </div>
